@@ -1,8 +1,12 @@
 <h1 align="center">Dan Shawl</h1>
 
 <p align="center">
+<a href="https://www.linkedin.com/in/daniel-shawl/" target="_blank">
 <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://twitter.com/danshawldev" target="_blank"> 
   <img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
+  </a>
 </p>
 
 <p align="left">Frontend developer with a passion for tech and fitness. I want to create amazing user experiences that streamline our tasks.<br>
@@ -21,3 +25,19 @@
 <img align="center" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 <img align="center" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 </p>
+
+<h2 align="center">Projects</h2>
+
+<p>
+
+| Left-aligned | Center-aligned | Right-aligned |
+| :---         |     :---:      |          ---: |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
+  
+</p>
+
+<div align="center">
+    <h3>Boys Will Be</h3>
+</div>
+
