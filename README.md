@@ -1,3 +1,5 @@
+![Grey Minimalist Corporate Personal Profile LinkedIn Banner (1)](https://user-images.githubusercontent.com/77758358/182044776-32472bb5-a87d-44dd-8f9b-8fdc779e0472.png)
+
 <p align="center">
 <a href="https://www.linkedin.com/in/daniel-shawl/" target="_blank">
 <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
