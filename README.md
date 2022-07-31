@@ -15,6 +15,7 @@
 
 <br>
 
+<h2 align="center">Technologies</h2>
 <p align="center">
 <img align="center" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 <img align="center" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
@@ -26,18 +27,13 @@
 <img align="center" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
+<br>
 <h2 align="center">Projects</h2>
-
-<p>
-
-| Left-aligned | Center-aligned | Right-aligned |
-| :---         |     :---:      |          ---: |
-| git status   | git status     | git status    |
-| git diff     | git diff       | git diff      |
-  
-</p>
-
 <div align="center">
-    <h3>Boys Will Be</h3>
-</div>
 
+|  |  |
+| :---:         |     :---:      |
+| <div align="center"> <h3>Boys Will Be</h3> ![ezgif com-gif-maker](https://user-images.githubusercontent.com/77758358/182042165-1f9b316d-a9fa-408a-b535-917197e14ce6.gif) <div><p><strong>Javascript - React - NextJS - Shopify - Tailwind - HTML</strong> <br> <p>Check out the <a href="https://boyswillbe.vercel.app/" target="blank">website.</a></p> A headless ecommerce website built for Boys Will Be fashion brand; a brand dedicated to reframing masculinity. This utilizes NextJS for performance and user experience optimization, and Shopify for back-end infrastructure by implementing the Storefront API and Buy SDK. This website is still being built but a live version is available.</p></div></div> | <div align="center"> <h3>lazyLifter</h3> ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/77758358/182042249-09c9ceac-102f-4a9c-aca5-ebf7c3a45d7b.gif) <div><p><strong>JavaScript - React - Firebase - User Auth - HTML </strong>  <br><p>Check out the <a href="https://fir-test-9d865.web.app/" target="blank">web app.</a></p> A workout application designed to provide personal trainers and physical therapists with an easy, efficient method of creating, logging, and storing client session information. This is built using React JS for streamlined DOM manipulation and production, and Firebase for a NoSQL database.
+</p></div></div>
+
+</div>
