@@ -9,7 +9,7 @@
   </a>
 </p>
 
-<p align="left">Frontend developer with a passion for tech and fitness. I want to create amazing user experiences that streamline our tasks.<br>
+<p align="left">Frontend developer with a passion for tech, fitness, and my dog. I want to create amazing user experiences that streamline our tasks.<br>
   You can learn more at <a href="https://www.danshawl.com" target="blank">my website.</a>
 </p>
 
